@@ -6,12 +6,12 @@
 *   GitHub:https://github.com/ma-5/ma5-cssgallery
 */
 /* ie9 */
-.ma5-css-gallery .ma5-gallery-content .ma5-container { -webkit-transform: translate(0, 0); transform: translate(0, 0); }
+.ma5-css-gallery .ma5-gallery-content .ma5-container { transform: translate(0, 0); }
 .ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide figure { z-index: 0; }
 .ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide input:checked ~ figure { z-index: 1; }
-.ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide:first-of-type label:before { -webkit-transform: translate(0, 0); transform: translate(0, 0); }
-.ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide input:checked ~ label img { -webkit-transform: scale(1.2, 1.2); transform: scale(1.2, 1.2); }
-.ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .ma5-close { -webkit-transform: translate(0, 0); transform: translate(0, 0); }
-.ma5-css-gallery > input:checked ~ .ma5-gallery-content .ma5-container { -webkit-transform: translate(-100%, 0); transform: translate(-100%, 0); }
-.ma5-css-gallery > input:checked ~ .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide:first-of-type label:before { -webkit-transform: translate(-100%, 0); transform: translate(-100%, 0); }
-.ma5-css-gallery > input:checked ~ .ma5-gallery-content .ma5-container .ma5-cssslider .ma5-close { -webkit-transform: translate(-100%, 0); transform: translate(-100%, 0); }
+.ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide:first-of-type label:before { transform: translate(0, 0); }
+.ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide input:checked ~ label img { transform: scale(1.2, 1.2); }
+.ma5-css-gallery .ma5-gallery-content .ma5-container .ma5-cssslider .ma5-close { transform: translate(0, 0); }
+.ma5-css-gallery > input:checked ~ .ma5-gallery-content .ma5-container { transform: translate(-100%, 0); }
+.ma5-css-gallery > input:checked ~ .ma5-gallery-content .ma5-container .ma5-cssslider .slides .slide:first-of-type label:before { transform: translate(-100%, 0); }
+.ma5-css-gallery > input:checked ~ .ma5-gallery-content .ma5-container .ma5-cssslider .ma5-close { transform: translate(-100%, 0); }
