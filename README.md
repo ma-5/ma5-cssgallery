@@ -54,7 +54,7 @@ Responsive CSS Gallery without javascripts.
                             <img src="./path/to/full-image.jpg" alt="">
                             <figcaption>Title of slide 1</figcaption>
                         </figure>
-                        <label for="slide_1"><img src="./path/to/navigator-icon.jpg"" alt=""></label>
+                        <label for="slide_1"><img src="./path/to/navigator-icon.jpg" alt=""></label>
                     </div>
                      <!-- slide 2 -->
                     <div class="ma5-slide">
@@ -63,7 +63,7 @@ Responsive CSS Gallery without javascripts.
                             <img src="./path/to/full-image.jpg" alt="">
                             <figcaption>Title of slide 2</figcaption>
                         </figure>
-                        <label for="slide_2"><img src="./path/to/navigator-icon.jpg"" alt=""></label>
+                        <label for="slide_2"><img src="./path/to/navigator-icon.jpg" alt=""></label>
                     </div>
                      <!-- slide 3 -->
                     <div class="ma5-slide">
