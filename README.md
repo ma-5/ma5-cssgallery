@@ -1,7 +1,7 @@
 # ma5-cssgallery
 
 
-### MA5-gallery ###
+### MA5-CSSgallery ###
 Responsive CSS Gallery without javascripts.
 >v.1.0 Initial
 
