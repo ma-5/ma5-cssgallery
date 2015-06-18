@@ -11,6 +11,7 @@ Responsive CSS Gallery without javascripts.
 * Html5
 * CSS3
 * No javascripts
+* the number of images is not dependent on CSS
 
 ### Example
 * [See example](http://galeriacss.ma5.pl)
