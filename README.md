@@ -33,15 +33,15 @@ Responsive CSS Gallery without javascripts.
         <!-- thumbnails -->
         <figure>
             <label for="gallery-1-slide-1">Slide 1</label>
-            <img src="./images/ptaki/DSC_1769-thumbnail.jpg" alt="">
+            <img src="./path/to/thumbnail.jpg" alt="">
         </figure>
         <figure>
             <label for="gallery-1-slide-2">Slide 2</label>
-            <img src="./images/ptaki/DSC_1641-thumbnail.jpg" alt="">
+            <img src="./path/to/thumbnail.jpg" alt="">
         </figure>
         <figure>
             <label for="gallery-1-slide-3">slide3</label>
-            <img src="./images/ptaki/DSC_1604-thumbnail.jpg" alt="">
+            <img src="./path/to/thumbnail.jpg" alt="">
         </figure>
         <!-- slider -->
         <div class="ma5-container">
@@ -52,28 +52,28 @@ Responsive CSS Gallery without javascripts.
                     <div class="ma5-slide">
                         <input type="radio" name="gallery-1" id="gallery-1-slide-1">
                         <figure class="ma5-has-figcaption">
-                            <img src="./images/ptaki/DSC_1769.jpg" alt="">
+                            <img src="./path/to/full.jpg" alt="">
                             <figcaption>Title of slide 1</figcaption>
                         </figure>
-                        <label for="gallery-1-slide-1"><img src="./images/ptaki/DSC_1769-navigator.jpg" alt=""></label>
+                        <label for="gallery-1-slide-1"><img src="./path/to/navigator-icon.jpg" alt=""></label>
                     </div>
                     <!-- slide 2 -->
                     <div class="ma5-slide">
                         <input type="radio" name="gallery-1" id="gallery-1-slide-2">
                         <figure class="ma5-has-figcaption">
-                            <img src="./images/ptaki/DSC_1641.jpg" alt="">
+                            <img src="./path/to/full.jpg" alt="">
                             <figcaption>Title of slide 2</figcaption>
                         </figure>
-                        <label for="gallery-1-slide-2"><img src="./images/ptaki/DSC_1641-navigator.jpg" alt=""></label>
+                        <label for="gallery-1-slide-2"><img src="./path/to/navigator-icon.jpg" alt=""></label>
                     </div>
                     <!-- slide 3 -->
                     <div class="ma5-slide">
                         <input type="radio" name="gallery-1" id="gallery-1-slide-3">
                         <figure class="ma5-has-figcaption">
-                            <img src="./images/ptaki/DSC_1604.jpg" alt="">
+                            <img src="./path/to/full.jpg" alt="">
                             <figcaption>Title of slide 3</figcaption>
                         </figure>
-                        <label for="gallery-1-slide-3"><img src="./images/ptaki/DSC_1604-navigator.jpg" alt=""></label>
+                        <label for="gallery-1-slide-3"><img src="./path/to/navigator-icon.jpg" alt=""></label>
                     </div>
                 </div>
             </div>
@@ -88,9 +88,9 @@ When the picture nasn't figcaption:
 <div class="ma5-slide">
     <input type="radio" name="gallery-1" id="gallery-1-slide-1">
     <figure>
-        <img src="./images/ptaki/DSC_1769.jpg" alt="">
+        <img src="./path/to/full.jpg" alt="">
     </figure>
-    <label for="gallery-1-slide-1"><img src="./images/ptaki/DSC_1769-navigator.jpg" alt=""></label>
+    <label for="gallery-1-slide-1"><img src="./path/to/navigator-icon.jpg" alt=""></label>
 </div>
 ```
 
