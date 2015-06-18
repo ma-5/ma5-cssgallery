@@ -81,7 +81,7 @@ Responsive CSS Gallery without javascripts.
     </div>       
 </div>
 ```
-When the picture nasn't figcaption:
+When the picture hasn't figcaption:
 
 ```html
 <!-- slide without figcaption -->
