@@ -81,6 +81,18 @@ Responsive CSS Gallery without javascripts.
     </div>       
 </div>
 ```
+When the picture nasn't figcaption:
+
+```html
+<!-- slide without figcaption -->
+<div class="ma5-slide">
+    <input type="radio" name="slides" id="slide_1">
+    <figure>
+        <img src="./path/to/full-image.jpg" alt="">
+    </figure>
+    <label for="slide_1"><img src="./path/to/navigator-icon.jpg" alt=""></label>
+</div>
+```
 
 License
 ------------
