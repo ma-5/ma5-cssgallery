@@ -86,11 +86,11 @@ When the picture nasn't figcaption:
 ```html
 <!-- slide without figcaption -->
 <div class="ma5-slide">
-    <input type="radio" name="slides" id="slide_1">
+    <input type="radio" name="gallery-1" id="gallery-1-slide-1">
     <figure>
-        <img src="./path/to/full-image.jpg" alt="">
+        <img src="./images/ptaki/DSC_1769.jpg" alt="">
     </figure>
-    <label for="slide_1"><img src="./path/to/navigator-icon.jpg" alt=""></label>
+    <label for="gallery-1-slide-1"><img src="./images/ptaki/DSC_1769-navigator.jpg" alt=""></label>
 </div>
 ```
 
