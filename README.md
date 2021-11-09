@@ -13,9 +13,6 @@ Responsive CSS Gallery without javascripts.
 * No javascripts
 * The number of images is not dependent on the CSS
 
-### Example
-* [See example](http://galeriacss.ma5.pl)
-
 
 ### 1.Getting Started
 ```html
